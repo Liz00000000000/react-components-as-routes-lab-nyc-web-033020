@@ -10,7 +10,7 @@ import Directors from '../components/Directors';
 import Movies from '../components/Movies';
 
 
-const App = (props) => {
+const App = () => {
   return (
     <Router>
        <div className='app'>
